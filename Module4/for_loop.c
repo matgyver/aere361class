@@ -8,7 +8,7 @@ int main()
 {
     int x=0;
     
-    for ( x = 1; x <= 10; x++ ) {
+    for ( x = 1; x <= 10; x=x+2 ) {
         
         printf( "I am in the %d loop iteration.\n", x );
     }

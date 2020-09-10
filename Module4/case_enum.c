@@ -8,6 +8,7 @@ Matthew E. Nelson
 int main(void){
 	enum Weekday {Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday};
 	enum Weekday today = Wednesday;
+	
 	switch(today)
 	{
 		case Sunday:
