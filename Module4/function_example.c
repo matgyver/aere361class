@@ -1,5 +1,8 @@
+/*
+AerE 361 Demos for Module 4
+Matthew E. Nelson
+*/
 #include <stdio.h>
-#define MAX_COUNT 50
 
 //Function to calculate the average of two numbers
 float average(float r1, float r2)

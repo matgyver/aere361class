@@ -1,3 +1,7 @@
+/*
+AerE 361 Demos for Module 4
+Matthew E. Nelson
+*/
 #include <stdio.h>
 #include <limits.h>
 #include <float.h>
@@ -14,7 +18,7 @@ int main(void)
 	printf("Variables of type unsigned long store values from 0 to %lu\n", ULONG_MAX);
 	printf("Variables of type long long store values from %lld to %lld\n",LLONG_MIN, LLONG_MAX);
 	printf("Variables of type unsigned long long store values from 0 to %llu\n", ULLONG_MAX);
-	
+
 	printf("\n\nThe size of the smallest positive non-zero value of type float is %.3e\n", FLT_MIN);
 	printf("The size of the largest value of the type float is %.3e\n",FLT_MAX);
 	printf("The size of the smallest non-zero value of the type double is %.3e\n",DBL_MIN);

@@ -1,3 +1,7 @@
+/* 
+AerE 361 Demos for Module 4
+Matthew E. Nelson
+*/
 #include <stdio.h>
 
 int main(void)
