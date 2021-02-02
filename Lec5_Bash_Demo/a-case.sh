@@ -7,7 +7,7 @@ echo "Enter your lucky number"
 read n
 case $n in
 101)
-echo echo "You got 1st prize" ;;
+echo "You got 1st prize" ;;
 510)
 echo "You got 2nd prize" ;;
 999)
