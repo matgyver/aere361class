@@ -1,5 +1,8 @@
 #!/bin/bash
-
+# AerE 361
+# Bash Demo
+# ElseIf Demo
+# Professor Nelson
 echo "Enter your lucky number"
 read n
 

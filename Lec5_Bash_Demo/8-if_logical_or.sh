@@ -1,5 +1,8 @@
 #!/bin/bash
-
+# AerE 361
+# Bash Demo
+# Logical OR Demo
+# Professor Nelson
 echo "Enter any number"
 read n
 

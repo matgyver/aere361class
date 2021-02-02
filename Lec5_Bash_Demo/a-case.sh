@@ -1,5 +1,8 @@
 #!/bin/bash
-
+# AerE 361
+# Bash Demo
+# Case Statement Demo
+# Professor Nelson
 echo "Enter your lucky number"
 read n
 case $n in

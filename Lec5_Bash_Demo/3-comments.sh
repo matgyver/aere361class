@@ -1,4 +1,8 @@
 #!/bin/bash
+# AerE 361
+# Bash Demo
+# Comments
+# Professor Nelson
 # Add two numeric value
 ((sum=25+35))
 

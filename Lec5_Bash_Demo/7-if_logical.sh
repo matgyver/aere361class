@@ -1,5 +1,8 @@
 #!/bin/bash
-
+# AerE 361
+# Bash Demo
+# Logical AND Demo
+# Professor Nelson
 echo "Enter username"
 read username
 echo "Enter password"
